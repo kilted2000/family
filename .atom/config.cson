@@ -1,0 +1,15 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "469fa125-ded7-4be1-bae8-887a5639e356"
+  core:
+    telemetryConsent: "limited"
+  editor:
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "eea65ffa-8cee-445e-9536-ac29d5e18db5"
+  "linter-jshint":
+    lintInlineJavaScript: true
+  "linter-ui-default": {}
+  welcome:
+    showOnStartup: false
